@@ -1,4 +1,4 @@
-# Hi there, I'm Naresh Chodhary! 👋
+  # Hi there, I'm Naresh Chodhary! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;2%2B+Years+of+Experience;React+%7C+Node.js+%7C+Python;Building+Enterprise+Solutions" alt="Typing SVG" />
@@ -9,9 +9,10 @@
 Full Stack Developer with **2+ years** of experience building robust web and mobile applications. I specialize in creating **enterprise solutions**, **IoT systems**, and **healthcare platforms** that make a real difference in how businesses operate.
 
 - 🔭 Currently working as **Software Engineer** at Exxelia Alcon Electronics Pvt Ltd
-- 🌱 Passionate about **IoT solutions** and **real-time data monitoring**
+- 🌱 Passionate about **ERP systems**, **e-commerce platforms**, and **mobile app development**
 - 👨‍💻 Love contributing to **open source** projects
 - 📫 Reach me at: **itznareshc@gmail.com**
+
 
 ## 🛠️ Tech Stack
 

@@ -49,7 +49,6 @@ Full Stack Developer with **2+ years** of experience building robust web and mob
 
 ### 🎨 [Tkinter Shadow (tkshadowfy)](https://pypi.org/project/tkshadowfy/)
 Python UI enhancement library for beautiful shadow effects
-- **Downloads:** 1000+ monthly
 - **Purpose:** Enhance Tkinter widgets with custom shadows
 
 ### 🎠 [Svelte Slider Carousel](https://www.npmjs.com/package/svelte-flex-slider)

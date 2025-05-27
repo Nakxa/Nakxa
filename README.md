@@ -43,46 +43,6 @@ Full Stack Developer with **2+ years** of experience building robust web and mob
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakxa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakxa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakxa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 Featured Projects
-
-### 🔧 EMI Filter Capacitor Testing System
-**Enterprise IoT Solution** | *Exxelia Alcon Electronics*
-- Wireless network integration with 5 different testing machines
-- Real-time data visualization and automated reporting
-- Multi-level user management and security protocols
-- **Tech:** Python, Tkinter, MySQL, WLAN Communication
-
-### 📊 Temperature & Humidity Data Logger
-**Real-time Monitoring System** | *16 Devices Network*
-- Full-stack solution with WebSocket integration
-- Interactive dashboards and automated alerts
-- Remote device configuration and audit logging
-- **Tech:** Python/Flask, React.js, WebSocket, MySQL
-
-### 🏥 Hospital Information System
-**Healthcare Platform** | *Full-Stack Solution*
-- Multi-portal system (Doctor/Patient/Admin)
-- EHR integration and pharmacy management
-- React Native mobile app for appointments
-- **Tech:** Svelte, Node.js, React Native, MongoDB
-
-### 🏢 Enterprise Resource Planning (ERP)
-**MERN Stack Solution** | *Complete Business Suite*
-- HR, Inventory, Sales, and Payroll modules
-- Custom reporting engine (60% time reduction)
-- Centralized MongoDB architecture
-- **Tech:** MongoDB, Express.js, React.js, Node.js
 
 ## 📦 Open Source Contributions
 
@@ -95,30 +55,6 @@ Python UI enhancement library for beautiful shadow effects
 Reusable carousel component with touch and keyboard support
 - **Features:** Touch gestures, keyboard navigation
 - **Recognition:** Featured in Svelte component repository
-
-## 💼 Professional Experience
-
-**🔹 Software Engineer** | *Exxelia Alcon Electronics* | Sept 2024 - Present
-- Spearheading enterprise software development
-- IoT solutions for environmental monitoring
-- Real-time data systems with WebSocket APIs
-
-**🔹 Senior Full Stack Developer** | *Xpediolive Technologies* | Aug 2022 - Aug 2024
-- Led development teams across multiple projects
-- Healthcare, education, and business solutions
-- Performance optimization and security implementation
-
-## 🎓 Certifications
-
-- 🐍 **Python Hero: Full Course with Projects** - Udemy
-- 📱 **React Native Mobile App Development** - Udemy  
-- 🌐 **PHP Full Stack Web Developer Bootcamp** - Udemy
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nakxa&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area=true&hide_border=true" alt="Activity Graph" />
-</div>
 
 ## 🤝 Let's Connect!
 

@@ -67,14 +67,3 @@ Reusable carousel component with touch and keyboard support
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nakxa&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-**"Building solutions that make a difference, one line of code at a time."** ✨
-
-</div>
